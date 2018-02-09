@@ -20,7 +20,7 @@ by 东武
 - Handoff: iPhone, iPad和Macbook同步一些事件以利于切换使用设备。比如iPhone的来电在mac上接听，iPhone浏览的网页在mac上继续查看。
 - Spotlight: 搜索和快捷命令的入口, 热键:⌥ + space(看不懂这个热键请继续往下)。另，强烈推荐使用第三方app: alfred, 替代Spotlight，很强大。
 - FileVault: 磁盘加密，推荐打开，在"系统偏好设置"里可以找到。
-- SIP: System Integrity Protection，简答来说，当开启SIP时，就算有root权限，也不能改动受到保护的系统文件。
+- SIP: System Integrity Protection，简单来说，当开启SIP时，就算有root权限，也不能改动受到保护的系统文件。
 - Boot Camp: 装双系统用的bootloader辅助工具。
 - LLVM: 编译工具链及平台。比起gcc，LLVM和苹果的关系更亲密。
 - 抹掉: 格式化。
